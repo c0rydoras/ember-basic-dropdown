@@ -1,1 +1,1 @@
-import './vendor/ember-basic-dropdown.css';
+export { default } from "./vendor/ember-basic-dropdown.js";
